@@ -1,6 +1,6 @@
 track UTRome
-shortLabel UTRs
-longLabel UTRs
+shortLabel UTRome
+longLabel UTRome
 bigDataUrl UTRome.bb
-type bed9
+type bigBed 9
 
