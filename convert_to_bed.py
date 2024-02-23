@@ -36,7 +36,7 @@ with open(fname) as infile:
             thickStart = UTR_start + PAS_dist
             thickEnd = thickStart + len(PAS)
         else:
-            thickStart = UTR_end - PAS_dist + 2
+            thickStart = UTR_end - PAS_dist + 1
             thickEnd = thickStart + len(PAS)
 
         if PAS == 'n/a':
