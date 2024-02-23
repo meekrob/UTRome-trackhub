@@ -2,5 +2,5 @@ track UTRome
 shortLabel UTRome
 longLabel UTRome mapped
 bigDataUrl UTRome.bb
-type bigBed 9
+type bigBed 9+
 

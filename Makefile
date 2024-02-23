@@ -10,4 +10,4 @@ ce11.chromsizes:
 	fetchChromSizes ce11 > $@
 
 trackhub/ce11/UTRome.bb: UTRome.sorted.bed ce11.chromsizes
-	bedToBigBed -type=bed9 $^ $@
+	bedToBigBed -as=trackhub/ce11/UTRome.as -type=bed9+5 $^ $@

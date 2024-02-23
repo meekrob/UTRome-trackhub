@@ -24,6 +24,9 @@ with open(fname) as infile:
         PAS_dist = int( fields[h['PAS distance from cleavage']] )
         name = fields[h['name']]
         strand = fields[h['strand']]
+        jan_et_al = fields[h['Jan et al.']]
+        mangone_et_al = fields[h['Mangone et al.']]
+        WBGene = fields[h['WBGene']]
 
         if PAS == 'n/a':
             len_PAS = 0
@@ -53,7 +56,7 @@ with open(fname) as infile:
             print(f"warning: {thickStart=} {chrom}, {UTR_start}, {UTR_end}, {name} out of range", file=sys.stderr)
             continue
         
-        print(chrom, UTR_start, UTR_end, name, "1000", strand, thickStart, thickEnd, "0,0,0", sep="\t")
+        print(chrom, UTR_start, UTR_end, name, "1000", strand, thickStart, thickEnd, "0,0,0", PAS, PAS_dist, mangone_et_al, jan_et_al, WBGene, sep="\t")
 
         """
         if do_this_many:
