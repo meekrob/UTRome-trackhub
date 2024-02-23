@@ -1,0 +1,3 @@
+genome ce11
+trackDb ce11/trackDb.txt
+defaultPos chrX:10472484-10491943

@@ -1,0 +1,7 @@
+hub UTRome
+shortLabel UTRome
+longLabel UTRome
+genomesFile genomes.txt
+email dcking@colostate.edu
+descriptionUrl description/index.html
+
