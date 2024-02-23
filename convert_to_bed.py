@@ -53,7 +53,7 @@ with open(fname) as infile:
             print(f"warning: {thickStart=} {chrom}, {UTR_start}, {UTR_end}, {name} out of range", file=sys.stderr)
             continue
         
-        print(chrom, UTR_start, UTR_end, name, "1000", strand, thickStart, thickEnd, sep="\t")
+        print(chrom, UTR_start, UTR_end, name, "1000", strand, thickStart, thickEnd, "0,0,0", sep="\t")
 
         """
         if do_this_many:
