@@ -1,9 +1,3 @@
-track UTRome
-shortLabel UTRome
-longLabel UTRome mapped
-bigDataUrl UTRome.bb
-type bigBed 9 +
-
 track GSM4363842
 type bigwig 0.072524 13004.099609 
 bigDataUrl bw/GSM4363842_N2_embryos_rep1_RNA-seq_reads_by_protein_coding.bw
