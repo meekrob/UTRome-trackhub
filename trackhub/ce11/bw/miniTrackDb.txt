@@ -1,84 +1,108 @@
 track GSM4363842
-type bigwig
+type bigwig 0 50000
 bigDataUrl bw/GSM4363842_N2_embryos_rep1_RNA-seq_reads_by_protein_coding.bw
 shortLabel N2_embryos_rep1_RNA-seq
 longLabel N2_embryos_rep1_RNA-seq
 visibility full
+autoScale on
+alwaysZero on
 
 track GSM4363843
-type bigwig
+type bigwig 0 50000
 bigDataUrl bw/GSM4363843_N2_embryos_rep2_RNA-seq_reads_by_protein_coding.bw
 shortLabel N2_embryos_rep2_RNA-seq
 longLabel N2_embryos_rep2_RNA-seq
 visibility full
+autoScale on
+alwaysZero on
 
 track GSM4363844
-type bigwig
+type bigwig 0 50000
 bigDataUrl bw/GSM4363844_N2_embryos_rep3_RNA-seq_reads_by_protein_coding.bw
 shortLabel N2_embryos_rep3_RNA-seq
 longLabel N2_embryos_rep3_RNA-seq
 visibility full
+autoScale on
+alwaysZero on
 
 track GSM4363853
-type bigwig
+type bigwig 0 50000
 bigDataUrl bw/GSM4363853_N2_embryos_rep1_Ribo-seq_reads_by_non_structural.bw
 shortLabel N2_embryos_rep1_Ribo-seq
 longLabel N2_embryos_rep1_Ribo-seq
 visibility full
+autoScale on
+alwaysZero on
 
 track GSM4363854
-type bigwig
+type bigwig 0 50000
 bigDataUrl bw/GSM4363854_N2_embryos_rep2_Ribo-seq_reads_by_non_structural.bw
 shortLabel N2_embryos_rep2_Ribo-seq
 longLabel N2_embryos_rep2_Ribo-seq
 visibility full
+autoScale on
+alwaysZero on
 
 track GSM4363855
-type bigwig
+type bigwig 0 50000
 bigDataUrl bw/GSM4363855_N2_embryos_rep3_Ribo-seq_reads_by_non_structural.bw
 shortLabel N2_embryos_rep3_Ribo-seq
 longLabel N2_embryos_rep3_Ribo-seq
 visibility full
+autoScale on
+alwaysZero on
 
 track GSM4363824
-type bigwig
+type bigwig 0 50000
 bigDataUrl bw/GSM4363824_1cell_embryos_rep1_RNA-seq_reads_by_protein_coding.bw
 shortLabel 1cell_embryos_rep1_RNA-seq
 longLabel 1cell_embryos_rep1_RNA-seq
 visibility full
+autoScale on
+alwaysZero on
 
 track GSM4363825
-type bigwig
+type bigwig 0 50000
 bigDataUrl bw/GSM4363825_1cell_embryos_rep2_RNA-seq_reads_by_protein_coding.bw
 shortLabel 1cell_embryos_rep2_RNA-seq
 longLabel 1cell_embryos_rep2_RNA-seq
 visibility full
+autoScale on
+alwaysZero on
 
 track GSM4363826
-type bigwig
+type bigwig 0 50000
 bigDataUrl bw/GSM4363826_Early_embryos_rep1_RNA-seq_reads_by_protein_coding.bw
 shortLabel Early_embryos_rep1_RNA-seq
 longLabel Early_embryos_rep1_RNA-seq
 visibility full
+autoScale on
+alwaysZero on
 
 track GSM4363827
-type bigwig
+type bigwig 0 50000
 bigDataUrl bw/GSM4363827_Early_embryos_rep2_RNA-seq_reads_by_protein_coding.bw
 shortLabel Early_embryos_rep2_RNA-seq
 longLabel Early_embryos_rep2_RNA-seq
 visibility full
+autoScale on
+alwaysZero on
 
 track GSM4363828
-type bigwig
+type bigwig 0 50000
 bigDataUrl bw/GSM4363828_Late_embryos_rep1_RNA-seq_reads_by_protein_coding.bw
 shortLabel Late_embryos_rep1_RNA-seq
 longLabel Late_embryos_rep1_RNA-seq
 visibility full
+autoScale on
+alwaysZero on
 
 track GSM4363829
-type bigwig
+type bigwig 0 50000
 bigDataUrl bw/GSM4363829_Late_embryos_rep2_RNA-seq_reads_by_protein_coding.bw
 shortLabel Late_embryos_rep2_RNA-seq
 longLabel Late_embryos_rep2_RNA-seq
 visibility full
+autoScale on
+alwaysZero on
 
