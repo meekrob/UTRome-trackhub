@@ -6,7 +6,7 @@ do
 
     minmax=$(bigWigInfo $fname | cut -f 2 -d ' ' | tail -3 | head -2 | tr '\n' ' ')
     echo "track $Acc"
-    echo "type bigwig 0 50000"
+    echo "type bigWig 0 50000"
     echo "bigDataUrl bw/$fname"
     echo "shortLabel $Desc"
     echo "longLabel $Desc"
